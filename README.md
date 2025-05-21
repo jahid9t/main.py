@@ -113,6 +113,4 @@ class ShadowApp(App):
             self.typing_preview.text = ""
 
 if __name__ == "__main__":
-    ShadowApp().run()
-    # just triggering build
-    
+    # Minor update to trigger build
